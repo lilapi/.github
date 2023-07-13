@@ -2,6 +2,10 @@
 
 Lil API is a collection of useful little APIs. Go ahead and give them a try!
 
+## Headlines
+
+Summary of what’s new across all your dependencies.
+
 ## Cover Art
 
-Generate images on the fly.
+Generate OpenGraph, thumbnail, and favicon images on the fly.
